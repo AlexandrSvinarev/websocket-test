@@ -1,0 +1,20 @@
+.TableMetrics {
+  border-collapse: collapse;
+}
+
+.TableMetrics table,
+th,
+td,
+tr {
+  border: 1px solid black;
+}
+
+.TableMetrics th,
+td {
+  padding: 5px;
+  width: 100px;
+}
+
+.TableMetrics__buttonChangeOperation {
+  margin-right: 10px;
+}
